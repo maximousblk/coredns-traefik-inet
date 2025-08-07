@@ -1,6 +1,6 @@
 module github.com/maximousblk/coredns-traefik-inet
 
-go 1.24.5
+go 1.24
 
 require (
 	github.com/coredns/caddy v1.1.2-0.20241029205200-8de985351a98
